@@ -1,5 +1,5 @@
- image-gallery
- codegnan_image gallery A simple and responsive image gallery with category based filtering using HTML,CSS and Javascript.Built as part of an internship project features Filter by nature,city,animal Hover effects and smooth transtitions Reponsive layout Teach stack HTML CSS javascript files index.html jas.css scrpt.js the responsive design for different screen sizes
+codegnan project
+ image gallery A simple and responsive image gallery with category based filtering using HTML,CSS and Javascript.Built as part of an internship project features Filter by nature,city,animal Hover effects and smooth transtitions Reponsive layout Teach stack HTML CSS javascript files index.html jas.css scrpt.js the responsive design for different screen sizes
 
 🚀features: .image slideshow:Display images in a sliding gallery. .Responsive Design: works on mobile,tablet,and desktop .Lightbox Effect:click on an image to view it full screen. .image Filtering:optional feature for filtering images by categories(e.g.nature,city,animal) .smooth transitions:CSS animations for smooth image transitions.
 
